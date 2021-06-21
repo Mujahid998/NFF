@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="20dp"
+    android:paddingHorizontal="10dp"
+    android:background="@drawable/bg_dialog"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/confirmation_message"
+        android:id="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/size_title"
+        android:textColor="@color/purple_500"
+        android:layout_marginHorizontal="15dp"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/title"
+        >
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:text="Cancel"
+            android:id="@+id/cancelDelete"
+            android:textColor="@color/purple_500"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="15dp"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:text="Yes"
+            android:id="@+id/yesDelete"
+            android:background="@drawable/bg_button_primary"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="15dp"
+            />
+
+
+
+
+    </LinearLayout>
+</RelativeLayout>

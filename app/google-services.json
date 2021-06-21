@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670170028346",
+    "project_id": "naturally-farmed-foods",
+    "storage_bucket": "naturally-farmed-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670170028346:android:2068e6f9fd53a28297d803",
+        "android_client_info": {
+          "package_name": "com.nff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670170028346-cg787s58uf7f0kbr97as77a0hrgav3sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFi6WZmcGGzPTz13L49OY3-m0LRffv8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670170028346-cg787s58uf7f0kbr97as77a0hrgav3sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4229 @@
+[
+
+  {
+    "name": "Boneless English Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "92"
+    },
+      {
+        "size": "1.5lb",
+        "points": "138"
+      },
+      {
+        "size": "2lb",
+        "points": "183"
+      },
+      {
+        "size": "2.5lb",
+        "points": "229"
+      },
+      {
+        "size": "3lb",
+        "points": "275"
+      },
+      {
+        "size": "3.5lb",
+        "points": "321"
+      },
+      {
+        "size": "4lb",
+        "points": "367"
+      },
+      {
+        "size": "5lb",
+        "points": "412"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Chuck Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "92"
+    },
+      {
+        "size": "1.5lb",
+        "points": "138"
+      },
+      {
+        "size": "2lb",
+        "points": "183"
+      },
+      {
+        "size": "2.5lb",
+        "points": "229"
+      },
+      {
+        "size": "3lb",
+        "points": "275"
+      },
+      {
+        "size": "3.5lb",
+        "points": "321"
+      },
+      {
+        "size": "4lb",
+        "points": "367"
+      },
+      {
+        "size": "5lb",
+        "points": "412"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Rump Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "90"
+    },
+      {
+        "size": "1.5lb",
+        "points": "135"
+      },
+      {
+        "size": "2lb",
+        "points": "180"
+      },
+      {
+        "size": "2.5lb",
+        "points": "225"
+      },
+      {
+        "size": "3lb",
+        "points": "270"
+      },
+      {
+        "size": "3.5lb",
+        "points": "315"
+      },
+      {
+        "size": "4lb",
+        "points": "360"
+      },
+      {
+        "size": "5lb",
+        "points": "405"
+      }
+    ]
+
+  },
+  {
+    "name": "Eye Round Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "95"
+    },
+      {
+        "size": "1.5lb",
+        "points": "143"
+      },
+      {
+        "size": "2lb",
+        "points": "190"
+      },
+      {
+        "size": "2.5lb",
+        "points": "238"
+      },
+      {
+        "size": "3lb",
+        "points": "285"
+      },
+      {
+        "size": "3.5lb",
+        "points": "333"
+      },
+      {
+        "size": "4lb",
+        "points": "380"
+      },
+      {
+        "size": "5lb",
+        "points": "428"
+      }
+    ]
+
+  },
+  {
+    "name": "Sirloin Tip Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "90"
+    },
+      {
+        "size": "1.5lb",
+        "points": "135"
+      },
+      {
+        "size": "2lb",
+        "points": "180"
+      },
+      {
+        "size": "2.5lb",
+        "points": "225"
+      },
+      {
+        "size": "3lb",
+        "points": "270"
+      },
+      {
+        "size": "3.5lb",
+        "points": "315"
+      },
+      {
+        "size": "4lb",
+        "points": "360"
+      },
+      {
+        "size": "5lb",
+        "points": "405"
+      }
+    ]
+
+  },
+  {
+    "name": "Top Round Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "87"
+    },
+      {
+        "size": "1.5lb",
+        "points": "130"
+      },
+      {
+        "size": "2lb",
+        "points": "173"
+      },
+      {
+        "size": "2.5lb",
+        "points": "217"
+      },
+      {
+        "size": "3lb",
+        "points": "260"
+      },
+      {
+        "size": "3.5lb",
+        "points": "303"
+      },
+      {
+        "size": "4lb",
+        "points": "347"
+      },
+      {
+        "size": "5lb",
+        "points": "490"
+      }
+    ]
+
+  },
+  {
+    "name": "Bottom Round Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "83"
+    },
+      {
+        "size": "1.5lb",
+        "points": "125"
+      },
+      {
+        "size": "2lb",
+        "points": "167"
+      },
+      {
+        "size": "2.5lb",
+        "points": "208"
+      },
+      {
+        "size": "3lb",
+        "points": "250"
+      },
+      {
+        "size": "3.5lb",
+        "points": "292"
+      },
+      {
+        "size": "4lb",
+        "points": "333"
+      },
+      {
+        "size": "5lb",
+        "points": "375"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Beef Brisket",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "77"
+    },
+      {
+        "size": "1.5lb",
+        "points": "115"
+      },
+      {
+        "size": "2lb",
+        "points": "153"
+      },
+      {
+        "size": "2.5lb",
+        "points": "192"
+      },
+      {
+        "size": "3lb",
+        "points": "230"
+      },
+      {
+        "size": "3.5lb",
+        "points": "268"
+      },
+      {
+        "size": "4lb",
+        "points": "307"
+      },
+      {
+        "size": "5lb",
+        "points": "345"
+      }
+    ]
+
+  },
+  {
+    "name": "Prime Rib Roast",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "130"
+    },
+      {
+        "size": "1.5lb",
+        "points": "195"
+      },
+      {
+        "size": "2lb",
+        "points": "260"
+      },
+      {
+        "size": "2.5lb",
+        "points": "325"
+      },
+      {
+        "size": "3lb",
+        "points": "390"
+      },
+      {
+        "size": "3.5lb",
+        "points": "455"
+      },
+      {
+        "size": "4lb",
+        "points": "520"
+      },
+      {
+        "size": "5lb",
+        "points": "650"
+      }
+    ]
+
+  },
+  {
+    "name": "London Broil",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "2lb",
+      "points": "170"
+    }]
+
+  },
+  {
+    "name": "Flank Steak",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "1lb",
+      "points": "105"
+    }]
+
+  },
+  {
+    "name": "Ground Chuck",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "38"
+    },
+      {
+        "size": "1lb",
+        "points": "70"
+      },
+      {
+        "size": "1.5lb",
+        "points": "105"
+      },
+      {
+        "size": "2lb",
+        "points": "140"
+      }
+    ]
+
+  },
+  {
+    "name": "Ground Sirloin",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "40"
+    },
+      {
+        "size": "1lb",
+        "points": "75"
+      },
+      {
+        "size": "1.5lb",
+        "points": "113"
+      },
+      {
+        "size": "2lb",
+        "points": "150"
+      }
+    ]
+
+  },
+  {
+    "name": "Jumbo Steak Burgers",
+    "category": "Beef",
+    "selectedSizePosition": "6",
+
+    "sizes": [{
+      "size": "1-4oz",
+      "points": "20"
+    },
+      {
+        "size": "2-4oz",
+        "points": "40"
+      },
+      {
+        "size": "3-4oz",
+        "points": "55"
+      },
+      {
+        "size": "4-4oz",
+        "points": "70"
+      },
+      {
+        "size": "5-4oz",
+        "points": "85"
+      },
+      {
+        "size": "1-6oz",
+        "points": "38"
+      },
+      {
+        "size": "2-6oz",
+        "points": "50"
+      },
+      {
+        "size": "3-6oz",
+        "points": "75"
+      },
+      {
+        "size": "4-6oz",
+        "points": "100"
+      },
+      {
+        "size": "5-6oz",
+        "points": "125"
+      }
+    ]
+
+  },
+  {
+    "name": "Ground Buffalo",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "75"
+    },
+      {
+        "size": "1lb",
+        "points": "145"
+      },
+      {
+        "size": "1.5lb",
+        "points": "218"
+      },
+      {
+        "size": "2lb",
+        "points": "290"
+      }
+    ]
+
+  },
+  {
+    "name": "Ground Buffalo Patties",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "75"
+    },
+      {
+        "size": "1lb",
+        "points": "150"
+      },
+      {
+        "size": "1.5lb",
+        "points": "225"
+      },
+      {
+        "size": "2lb",
+        "points": "300"
+      }
+    ]
+
+  },
+  {
+    "name": "Oven Ready Meatloaf",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "2.5lb",
+      "points": "170"
+    }]
+
+  },
+  {
+    "name": "Filet Mignon Tid-Bits",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "65"
+    },
+      {
+        "size": "1lb",
+        "points": "125"
+      },
+      {
+        "size": "1.5lb",
+        "points": "188"
+      },
+      {
+        "size": "2lb",
+        "points": "250"
+      }
+    ]
+
+  },
+  {
+    "name": "Beef for Stew",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "40"
+    },
+      {
+        "size": "1lb",
+        "points": "75"
+      },
+      {
+        "size": "1.5lb",
+        "points": "113"
+      },
+      {
+        "size": "2lb",
+        "points": "150"
+      }
+    ]
+
+  },
+  {
+    "name": "Beef for Stir-Fry",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "55"
+    },
+      {
+        "size": "1lb",
+        "points": "105"
+      },
+      {
+        "size": "1.5lb",
+        "points": "158"
+      },
+      {
+        "size": "2lb",
+        "points": "210"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Ribeye",
+    "category": "Beef",
+    "selectedSizePosition": "8",
+
+    "sizes": [{
+      "size": "4oz",
+      "points": "63"
+    },
+      {
+        "size": "5oz",
+        "points": "78"
+      },
+      {
+        "size": "6oz",
+        "points": "94"
+      },
+      {
+        "size": "7oz",
+        "points": "109"
+      },
+      {
+        "size": "8oz",
+        "points": "125"
+      },
+      {
+        "size": "9oz",
+        "points": "141"
+      },
+      {
+        "size": "10oz",
+        "points": "156"
+      },
+      {
+        "size": "11oz",
+        "points": "172"
+      },
+      {
+        "size": "12oz",
+        "points": "185"
+      },
+      {
+        "size": "13oz",
+        "points": "203"
+      },
+      {
+        "size": "14oz",
+        "points": "219"
+      },
+      {
+        "size": "15oz",
+        "points": "234"
+      },
+      {
+        "size": "16oz",
+        "points": "250"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless NY Strip",
+    "category": "Beef",
+    "selectedSizePosition": "8",
+
+    "sizes": [{
+      "size": "4oz",
+      "points": "70"
+    },
+      {
+        "size": "5oz",
+        "points": "88"
+      },
+      {
+        "size": "6oz",
+        "points": "105"
+      },
+      {
+        "size": "7oz",
+        "points": "123"
+      },
+      {
+        "size": "8oz",
+        "points": "140"
+      },
+      {
+        "size": "9oz",
+        "points": "158"
+      },
+      {
+        "size": "10oz",
+        "points": "175"
+      },
+      {
+        "size": "11oz",
+        "points": "193"
+      },
+      {
+        "size": "12oz",
+        "points": "210"
+      },
+      {
+        "size": "13oz",
+        "points": "228"
+      },
+      {
+        "size": "14oz",
+        "points": "245"
+      },
+      {
+        "size": "15oz",
+        "points": "263"
+      },
+      {
+        "size": "16oz",
+        "points": "280"
+      }
+    ]
+
+  },
+  {
+    "name": "Porterhouse",
+    "category": "Beef",
+    "selectedSizePosition": "8",
+
+    "sizes": [{
+      "size": "8oz",
+      "points": "120"
+    },
+      {
+        "size": "9oz",
+        "points": "135"
+      },
+      {
+        "size": "10oz",
+        "points": "150"
+      },
+      {
+        "size": "11oz",
+        "points": "165"
+      },
+      {
+        "size": "12oz",
+        "points": "180"
+      },
+      {
+        "size": "13oz",
+        "points": "195"
+      },
+      {
+        "size": "14oz",
+        "points": "210"
+      },
+      {
+        "size": "15oz",
+        "points": "225"
+      },
+      {
+        "size": "16oz",
+        "points": "240"
+      },
+      {
+        "size": "17oz",
+        "points": "255"
+      },
+      {
+        "size": "18oz",
+        "points": "270"
+      },
+      {
+        "size": "19oz",
+        "points": "285"
+      },
+      {
+        "size": "20oz",
+        "points": "300"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Sirloin",
+    "category": "Beef",
+    "selectedSizePosition": "4",
+
+    "sizes": [{
+      "size": "4oz",
+      "points": "35"
+    },
+      {
+        "size": "5oz",
+        "points": "44"
+      },
+      {
+        "size": "6oz",
+        "points": "53"
+      },
+      {
+        "size": "7oz",
+        "points": "61"
+      },
+      {
+        "size": "8oz",
+        "points": "70"
+      },
+      {
+        "size": "9oz",
+        "points": "79"
+      },
+      {
+        "size": "10oz",
+        "points": "88"
+      },
+      {
+        "size": "11oz",
+        "points": "96"
+      },
+      {
+        "size": "12oz",
+        "points": "105"
+      },
+      {
+        "size": "13oz",
+        "points": "114"
+      },
+      {
+        "size": "14oz",
+        "points": "123"
+      },
+      {
+        "size": "15oz",
+        "points": "131"
+      },
+      {
+        "size": "16oz",
+        "points": "140"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Jumbo Sirloin",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "2.5lb",
+      "points": "340"
+    }]
+
+  },
+  {
+    "name": "Filet Mignon",
+    "category": "Beef",
+    "selectedSizePosition": "2",
+
+    "sizes": [{
+      "size": "4oz",
+      "points": "107"
+    },
+      {
+        "size": "5oz",
+        "points": "133"
+      },
+      {
+        "size": "6oz",
+        "points": "160"
+      },
+      {
+        "size": "7oz",
+        "points": "187"
+      },
+      {
+        "size": "8oz",
+        "points": "213"
+      },
+      {
+        "size": "9oz",
+        "points": "240"
+      },
+      {
+        "size": "10oz",
+        "points": "267"
+      },
+      {
+        "size": "11oz",
+        "points": "293"
+      },
+      {
+        "size": "12oz",
+        "points": "320"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Sirloin Teriyaki",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "8oz",
+      "points": "75"
+    }]
+
+  },
+
+  {
+    "name": "Beef for Kabobs",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "58"
+    },
+      {
+        "size": "1lb",
+        "points": "110"
+      },
+      {
+        "size": "1.5lb",
+        "points": "165"
+      },
+      {
+        "size": "2lb",
+        "points": "220"
+      }
+    ]
+
+  },
+  {
+    "name": "Cube Steaks",
+    "category": "Beef",
+    "selectedSizePosition": "1",
+
+    "sizes": [{
+      "size": "0.5lb",
+      "points": "40"
+    },
+      {
+        "size": "1lb",
+        "points": "80"
+      },
+      {
+        "size": "1.5lb",
+        "points": "120"
+      },
+      {
+        "size": "2lb",
+        "points": "160"
+      }
+    ]
+
+  },
+  {
+    "name": "Boneless Sirloin Filet",
+    "category": "Beef",
+    "selectedSizePosition": "0",
+
+    "sizes": [{
+      "size": "10oz",
+      "points": "100"
+    }]
+
+  },
+  {
+
+    "name": "Roasting Chicken",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4lb",
+        "points": "120"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Broilers",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3.5lb",
+        "points": "105"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Fryers",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3.5lb",
+        "points": "105"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Bone In Chicken Breast",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2-12oz",
+        "points": "65"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Boneless Skinless Chicken Breast",
+    "category": "Poultry",
+    "selectedSizePosition": "6",
+
+    "sizes": [
+
+      {
+        "size": "1-4oz",
+        "points": "18"
+      },
+      {
+        "size": "2-4oz",
+        "points": "35"
+      },
+      {
+        "size": "3-4oz",
+        "points": "50"
+      },
+      {
+        "size": "4-4oz",
+        "points": "66.68"
+      },
+      {
+        "size": "5-4oz",
+        "points": "83.35"
+      },
+      {
+        "size": "1-6oz",
+        "points": "27.5"
+      },
+      {
+        "size": "2-6oz",
+        "points": "50"
+      },
+      {
+        "size": "3-6oz",
+        "points": "75"
+      },
+      {
+        "size": "4-6oz",
+        "points": "100"
+      },
+      {
+        "size": "1-8oz",
+        "points": "33.34"
+      },
+      {
+        "size": "2-8oz",
+        "points": "66.67"
+      },
+      {
+        "size": "3-8oz",
+        "points": "100"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Leg & Thigh Combo",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": "1-12oz",
+        "points": "22.5"
+      },
+      {
+        "size": "2-12oz",
+        "points": "40"
+      },
+      {
+        "size": "2-6oz",
+        "points": "22.5"
+      },
+      {
+        "size": "3-6oz",
+        "points": "30"
+      },
+      {
+        "size": "4-6oz",
+        "points": "40"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Chicken Legs Only",
+    "category": "Poultry",
+    "selectedSizePosition": "3",
+
+    "sizes": [
+
+      {
+        "size": "1 x",
+        "points": "14"
+      },
+      {
+        "size": "2 x",
+        "points": "23"
+      },
+      {
+        "size": "3 x",
+        "points": "32"
+      },
+      {
+        "size": "4 x",
+        "points": "40"
+      },
+      {
+        "size": "5 x",
+        "points": "50"
+      },
+      {
+        "size": "6 x",
+        "points": "60"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Chicken Thigh Only",
+    "category": "Poultry",
+    "selectedSizePosition": "3",
+
+    "sizes": [
+
+      {
+        "size": "1 x",
+        "points": "14"
+      },
+      {
+        "size": "2 x",
+        "points": "23"
+      },
+      {
+        "size": "3 x",
+        "points": "32"
+      },
+      {
+        "size": "4 x",
+        "points": "40"
+      },
+      {
+        "size": "5 x",
+        "points": "50"
+      },
+      {
+        "size": "6 x",
+        "points": "60"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Chicken Breast",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "37.5"
+      },
+      {
+        "size": "1lb",
+        "points": "70"
+      },
+      {
+        "size": "1.5lb",
+        "points": "105"
+      },
+      {
+        "size": "2lb",
+        "points": "140"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Teriyaki Chicken Marinaded",
+    "category": "Poultry",
+    "selectedSizePosition": "6",
+
+
+    "sizes": [
+
+      {
+        "size": "1-4oz",
+        "points": "20"
+      },
+      {
+        "size": "2-4oz",
+        "points": "38"
+      },
+      {
+        "size": "3-4oz",
+        "points": "55"
+      },
+      {
+        "size": "4-4oz",
+        "points": "73.35"
+      },
+      {
+        "size": "5-4oz",
+        "points": "91.69"
+      },
+      {
+        "size": "1-6oz",
+        "points": "30"
+      },
+      {
+        "size": "2-6oz",
+        "points": "55"
+      },
+      {
+        "size": "3-6oz",
+        "points": "82.5"
+      },
+      {
+        "size": "4-6oz",
+        "points": "110"
+      },
+      {
+        "size": "1-8oz",
+        "points": "36.67"
+      },
+      {
+        "size": "2-8oz",
+        "points": "73.35"
+      },
+      {
+        "size": "3-8oz",
+        "points": "110"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "BBQ Chicken Marinated",
+    "category": "Poultry",
+    "selectedSizePosition": "6",
+
+    "sizes": [
+
+      {
+        "size": "1-4oz",
+        "points": "20"
+      },
+      {
+        "size": "2-4oz",
+        "points": "38"
+      },
+      {
+        "size": "3-4oz",
+        "points": "55"
+      },
+      {
+        "size": "4-4oz",
+        "points": "73.35"
+      },
+      {
+        "size": "5-4oz",
+        "points": "91.69"
+      },
+      {
+        "size": "1-6oz",
+        "points": "30"
+      },
+      {
+        "size": "2-6oz",
+        "points": "55"
+      },
+      {
+        "size": "3-6oz",
+        "points": "82.5"
+      },
+      {
+        "size": "4-6oz",
+        "points": "110"
+      },
+      {
+        "size": "1-8oz",
+        "points": "36.67"
+      },
+      {
+        "size": "2-8oz",
+        "points": "73.35"
+      },
+      {
+        "size": "3-8oz",
+        "points": "110"
+      }
+
+    ]
+
+  },
+
+  {
+
+    "name": "Lemon Pepper Chicken Marinated",
+    "category": "Poultry",
+    "selectedSizePosition": "6",
+
+    "sizes": [
+
+      {
+        "size": "1-4oz",
+        "points": "20"
+      },
+      {
+        "size": "2-4oz",
+        "points": "38"
+      },
+      {
+        "size": "3-4oz",
+        "points": "55"
+      },
+      {
+        "size": "4-4oz",
+        "points": "73.35"
+      },
+      {
+        "size": "5-4oz",
+        "points": "91.69"
+      },
+      {
+        "size": "1-6oz",
+        "points": "30"
+      },
+      {
+        "size": "2-6oz",
+        "points": "55"
+      },
+      {
+        "size": "3-6oz",
+        "points": "82.5"
+      },
+      {
+        "size": "4-6oz",
+        "points": "110"
+      },
+      {
+        "size": "1-8oz",
+        "points": "36.67"
+      },
+      {
+        "size": "2-8oz",
+        "points": "73.35"
+      },
+      {
+        "size": "3-8oz",
+        "points": "110"
+      }
+
+    ]
+
+  },
+
+  {
+
+    "name": "Cajun Chicken Marinated",
+    "category": "Poultry",
+    "selectedSizePosition": "6",
+
+    "sizes": [
+
+      {
+        "size": "1-4oz",
+        "points": "20"
+      },
+      {
+        "size": "2-4oz",
+        "points": "38"
+      },
+      {
+        "size": "3-4oz",
+        "points": "55"
+      },
+      {
+        "size": "4-4oz",
+        "points": "73.35"
+      },
+      {
+        "size": "5-4oz",
+        "points": "91.69"
+      },
+      {
+        "size": "1-6oz",
+        "points": "30"
+      },
+      {
+        "size": "2-6oz",
+        "points": "55"
+      },
+      {
+        "size": "3-6oz",
+        "points": "82.5"
+      },
+      {
+        "size": "4-6oz",
+        "points": "110"
+      },
+      {
+        "size": "1-8oz",
+        "points": "36.67"
+      },
+      {
+        "size": "2-8oz",
+        "points": "73.35"
+      },
+      {
+        "size": "3-8oz",
+        "points": "110"
+      }
+
+    ]
+
+  },
+
+  {
+
+    "name": "Chicken Tenders Raw",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "32.5"
+      },
+      {
+        "size": "1lb",
+        "points": "60"
+      },
+      {
+        "size": "1.5lb",
+        "points": "90"
+      },
+      {
+        "size": "2lb",
+        "points": "120"
+      }
+    ]
+
+  },
+
+
+  {
+
+
+    "name": "Chicken for Kabobs",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "32.5"
+      },
+      {
+        "size": "1lb",
+        "points": "60"
+      },
+      {
+        "size": "1.5lb",
+        "points": "90"
+      },
+      {
+        "size": "2lb",
+        "points": "120"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Cornish Hens",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1.5lb",
+        "points": "65"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Turkey Breast",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "5lb",
+        "points": "225"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Turkey Breast",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "65"
+      },
+      {
+        "size": "1.5lb",
+        "points": "97.5"
+      },
+      {
+        "size": "2lb",
+        "points": "130"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Turkey",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "20"
+      },
+      {
+        "size": "1lb",
+        "points": "35"
+      },
+      {
+        "size": "1.5lb",
+        "points": "52.5"
+      },
+      {
+        "size": "2lb",
+        "points": "70"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Turkey Bacon",
+    "category": "Poultry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12oz",
+        "points": "70"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Turkey Sausage",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "32.5"
+      },
+      {
+        "size": "1lb",
+        "points": "60"
+      },
+      {
+        "size": "1.5lb",
+        "points": "90"
+      },
+      {
+        "size": "2lb",
+        "points": "120"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Turkey Bratwurst",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "65"
+      },
+      {
+        "size": "1.5lb",
+        "points": "97.5"
+      },
+      {
+        "size": "2lb",
+        "points": "130"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Whole Turkey",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": "10-13lb",
+        "points": "375"
+      },
+      {
+        "size": "14-16lb",
+        "points": "425"
+      },
+      {
+        "size": "17-20lb",
+        "points": "450"
+      },
+      {
+        "size": "21-24lb",
+        "points": "475"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Chicken Wings",
+    "category": "Poultry",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": "2.5lb",
+        "points": "105"
+      },
+      {
+        "size": "5lb",
+        "points": "200"
+      }
+
+    ]
+
+  },
+
+  {
+
+    "name": "Boneless Center Cut Pork Chops",
+    "category": "Pork",
+    "selectedSizePosition": "5",
+
+    "sizes": [
+
+      {
+        "size": "1-3oz",
+        "points": "15"
+      },
+      {
+        "size": "2-3oz",
+        "points": "30"
+      },
+      {
+        "size": "3-3oz",
+        "points": "42.5"
+      },
+      {
+        "size": "4-3oz",
+        "points": "55"
+      },
+      {
+        "size": "1-6oz",
+        "points": "30"
+      },
+      {
+        "size": "2-6oz",
+        "points": "55"
+      },
+      {
+        "size": "3-6oz",
+        "points": "82.5"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Bone In Center Cut Pork Chops",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": "1-8oz",
+        "points": "35"
+      },
+      {
+        "size": "2-8oz",
+        "points": "65"
+      },
+      {
+        "size": "3-8oz",
+        "points": "97.5"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Pork Tenderloin",
+    "category": "Pork",
+    "selectedSizePosition": "10",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "60"
+      },
+      {
+        "size": "11oz",
+        "points": "65.75"
+      },
+      {
+        "size": "12oz",
+        "points": "71.5"
+      },
+      {
+        "size": "13oz",
+        "points": "77.25"
+      },
+      {
+        "size": "14oz",
+        "points": "83"
+      },
+      {
+        "size": "15oz",
+        "points": "88.75"
+      },
+      {
+        "size": "16oz",
+        "points": "94.5"
+      },
+      {
+        "size": "17oz",
+        "points": "100.25"
+      },
+      {
+        "size": "18oz",
+        "points": "106"
+      },
+      {
+        "size": "19oz",
+        "points": "111.75"
+      },
+      {
+        "size": "20oz",
+        "points": "115"
+      },
+      {
+        "size": "21oz",
+        "points": "120.75"
+      },
+      {
+        "size": "22oz",
+        "points": "126.5"
+      },
+      {
+        "size": "23oz",
+        "points": "132.25"
+      },
+      {
+        "size": "24oz",
+        "points": "138"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Boneless Center Cut Pork Roast",
+    "category": "Pork",
+    "selectedSizePosition": "4",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "95"
+      },
+      {
+        "size": "1.5lb",
+        "points": "142.5"
+      },
+      {
+        "size": "2lb",
+        "points": "190"
+      },
+      {
+        "size": "2.5lb",
+        "points": "237.5"
+      },
+      {
+        "size": "3lb",
+        "points": "285"
+      },
+      {
+        "size": "3.5lb",
+        "points": "332.5"
+      },
+      {
+        "size": "4lb",
+        "points": "380"
+      },
+      {
+        "size": "5lb",
+        "points": "427.5"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Baby Back Ribs",
+    "category": "Pork",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2lb",
+        "points": "185"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Country Style Ribs",
+    "category": "Pork",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "60"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ham Steak",
+    "category": "Pork",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2-6oz",
+        "points": "60"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Bacon",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "65"
+      },
+      {
+        "size": "1.5lb",
+        "points": "92.5"
+      },
+      {
+        "size": "2lb",
+        "points": "130"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Sausage Links",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "65"
+      },
+      {
+        "size": "1.5lb",
+        "points": "97.5"
+      },
+      {
+        "size": "2lb",
+        "points": "130"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Sausage Patties",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "27.5"
+      },
+      {
+        "size": "1lb",
+        "points": "50"
+      },
+      {
+        "size": "1.5lb",
+        "points": "75"
+      },
+      {
+        "size": "2lb",
+        "points": "100"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Italian Sausage Hot",
+    "category": "Pork",
+    "selectedSizePosition": "3",
+
+    "sizes": [
+
+      {
+        "size": ".25lb",
+        "points": "13"
+      },
+      {
+        "size": ".5lb",
+        "points": "25"
+      },
+      {
+        "size": ".75lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "45"
+      },
+      {
+        "size": "1.25lb",
+        "points": "56.25"
+      },
+      {
+        "size": "1.5lb",
+        "points": "67.5"
+      },
+      {
+        "size": "1.75lb",
+        "points": "78.75"
+      },
+      {
+        "size": "2lb",
+        "points": "90"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Italian Sausage Mild",
+    "category": "Pork",
+    "selectedSizePosition": "3",
+
+    "sizes": [
+
+      {
+        "size": ".25lb",
+        "points": "13"
+      },
+      {
+        "size": ".5lb",
+        "points": "25"
+      },
+      {
+        "size": ".75lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "45"
+      },
+      {
+        "size": "1.25lb",
+        "points": "56.25"
+      },
+      {
+        "size": "1.5lb",
+        "points": "67.5"
+      },
+      {
+        "size": "1.75lb",
+        "points": "78.75"
+      },
+      {
+        "size": "2lb",
+        "points": "90"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Bratwurst",
+    "category": "Pork",
+    "selectedSizePosition": "3",
+
+    "sizes": [
+
+      {
+        "size": ".25lb",
+        "points": "13"
+      },
+      {
+        "size": ".5lb",
+        "points": "25"
+      },
+      {
+        "size": ".75lb",
+        "points": "35"
+      },
+      {
+        "size": "1lb",
+        "points": "45"
+      },
+      {
+        "size": "1.25lb",
+        "points": "56.25"
+      },
+      {
+        "size": "1.5lb",
+        "points": "67.5"
+      },
+      {
+        "size": "1.75lb",
+        "points": "78.75"
+      },
+      {
+        "size": "2lb",
+        "points": "90"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Smoked Baby Back Ribs",
+    "category": "Pork",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2.5lb",
+        "points": "185"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Pork",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "20"
+      },
+      {
+        "size": "1lb",
+        "points": "35"
+      },
+      {
+        "size": "1.5lb",
+        "points": "52.5"
+      },
+      {
+        "size": "2lb",
+        "points": "70"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Sausage",
+    "category": "Pork",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "25"
+      },
+      {
+        "size": "1lb",
+        "points": "45"
+      },
+      {
+        "size": "1.5lb",
+        "points": "67.5"
+      },
+      {
+        "size": "2lb",
+        "points": "90"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Boneless Smoked Ham",
+    "category": "Pork",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "5.5lb",
+        "points": "275"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Fish Sticks",
+    "category": "Seafood",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb ",
+        "points": "60"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Flounder Filet",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "52.5"
+      },
+      {
+        "size": "1lb",
+        "points": "105"
+      },
+      {
+        "size": "1.5lb",
+        "points": "157.5"
+      },
+      {
+        "size": "2lb",
+        "points": "210"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Breaded Shrimp",
+    "category": "Seafood",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3lb",
+        "points": "370"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Raw Shrimp",
+    "category": "Seafood",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2lb",
+        "points": "325"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Shrimp (IQF)",
+    "category": "Seafood",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2lb",
+        "points": "400"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ocean Perch",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "42.5"
+      },
+      {
+        "size": "1lb",
+        "points": "85"
+      },
+      {
+        "size": "1.5lb",
+        "points": "127.5"
+      },
+      {
+        "size": "2lb",
+        "points": "170"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Orange Roughy",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "90"
+      },
+      {
+        "size": "1lb",
+        "points": "180"
+      },
+      {
+        "size": "1.5lb",
+        "points": "270"
+      },
+      {
+        "size": "2lb",
+        "points": "360"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Sea Scallops",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "97.5"
+      },
+      {
+        "size": "1lb",
+        "points": "195"
+      },
+      {
+        "size": "1.5lb",
+        "points": "292.5"
+      },
+      {
+        "size": "2lb",
+        "points": "390"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Salmon Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "90"
+      },
+      {
+        "size": "1lb",
+        "points": "180"
+      },
+      {
+        "size": "1.5lb",
+        "points": "270"
+      },
+      {
+        "size": "2lb",
+        "points": "360"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Tuna Steaks",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "80"
+      },
+      {
+        "size": "1lb",
+        "points": "150"
+      },
+      {
+        "size": "1.5lb",
+        "points": "225"
+      },
+      {
+        "size": "2lb",
+        "points": "300"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Swordfish Steaks",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "80"
+      },
+      {
+        "size": "1lb",
+        "points": "160"
+      },
+      {
+        "size": "1.5lb",
+        "points": "240"
+      },
+      {
+        "size": "2lb",
+        "points": "320"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Mahi Mahi Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "100"
+      },
+      {
+        "size": "1lb",
+        "points": "195"
+      },
+      {
+        "size": "1.5lb",
+        "points": "290"
+      },
+      {
+        "size": "2lb",
+        "points": "390"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Grouper Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "90"
+      },
+      {
+        "size": "1lb",
+        "points": "180"
+      },
+      {
+        "size": "1.5lb",
+        "points": "270"
+      },
+      {
+        "size": "2lb",
+        "points": "360"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Catfish Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "65"
+      },
+      {
+        "size": "1lb",
+        "points": "130"
+      },
+      {
+        "size": "1.5lb",
+        "points": "195"
+      },
+      {
+        "size": "2lb",
+        "points": "260"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Tilapia Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "40"
+      },
+      {
+        "size": "1lb",
+        "points": "80"
+      },
+      {
+        "size": "1.5lb",
+        "points": "120"
+      },
+      {
+        "size": "2lb",
+        "points": "160"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Halibut Filets",
+    "category": "Seafood",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "180"
+      },
+      {
+        "size": "1lb",
+        "points": "360"
+      },
+      {
+        "size": "1.5lb",
+        "points": "540"
+      },
+      {
+        "size": "2lb",
+        "points": "720"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Cod",
+    "category": "Seafood",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "170"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Veal Cutlets",
+    "category": "Lamb & Veal",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "180"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Ground Veal",
+    "category": "Lamb & Veal",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "55"
+      },
+      {
+        "size": "1lb",
+        "points": "100"
+      },
+      {
+        "size": "1.5lb",
+        "points": "150"
+      },
+      {
+        "size": "2lb",
+        "points": "200"
+      }
+    ]
+
+  },
+
+  {
+
+    "name": "Loin Lamb Chops",
+    "category": "Lamb & Veal",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2-6oz",
+        "points": "175"
+      }
+    ]
+
+  },
+
+
+  {
+
+    "name": "Cooked Tri Tip Roast w/ Nat'l Juices",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2lb",
+        "points": "290"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cooked Pot Roast w/ Vegetables",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3.5lb",
+        "points": "275"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cooked Baby Back Ribs w/ Sauce",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2.25lb",
+        "points": "220"
+      }
+    ]
+  },
+
+  {
+
+    "name": "BBQ Beef",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "75"
+      }
+    ]
+  },
+
+  {
+
+    "name": "BBQ Pork",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "75"
+      }
+    ]
+  },
+
+  {
+
+    "name": "BBQ Chicken",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "75"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Homemade Chicken Salad",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "75"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Breaded Mushrooms",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "8oz",
+        "points": "50"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Mozzarella Sticks",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "8.5oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Corn Dogs",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sliced Roast Beef",
+    "category": "Convenient Items",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "65"
+      },
+      {
+        "size": "1lb",
+        "points": "120"
+      },
+      {
+        "size": "1.5lb",
+        "points": "180"
+      },
+      {
+        "size": "2lb",
+        "points": "240"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sliced Turkey Breast",
+    "category": "Convenient Items",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "45"
+      },
+      {
+        "size": "1lb",
+        "points": "85"
+      },
+      {
+        "size": "1.5lb",
+        "points": "127.5"
+      },
+      {
+        "size": "2lb",
+        "points": "170"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sliced Smoked Ham",
+    "category": "Convenient Items",
+    "selectedSizePosition": "1",
+
+    "sizes": [
+
+      {
+        "size": ".5lb",
+        "points": "45"
+      },
+      {
+        "size": "1lb",
+        "points": "85"
+      },
+      {
+        "size": "1.5lb",
+        "points": "127.5"
+      },
+      {
+        "size": "2lb",
+        "points": "170"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chicken Nuggets",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2lb",
+        "points": "120"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chicken Pot Pie",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chicken Cordon Bleu",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4-7oz",
+        "points": "130"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chicken Kiev",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4-7oz",
+        "points": "130"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chicken Broccoli & Cheese",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4-7oz",
+        "points": "130"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Hot Dogs",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Kielbasa",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cooked Meatballs",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2.25lb",
+        "points": "110"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Lasagna",
+    "category": "Convenient Items",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "28oz",
+        "points": "270"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cheese Pizza",
+    "category": "Pizzas",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12",
+        "points": "110"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Pepperoni Pizza",
+    "category": "Pizzas",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12",
+        "points": "110"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Gluten Free Cheese Pizza",
+    "category": "Pizzas",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12",
+        "points": "145"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Gluten Free Pepperoni Pizza",
+    "category": "Pizzas",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12",
+        "points": "145"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Lobster Ravioli",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "250"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Six Cheese Ravioli",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "125"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Smoked Chicken Ravioli",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "145"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Bolognese Ravioli",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "175"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Potato Gnocchi",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+
+      {
+        "size": "1lb",
+        "points": "100"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Classic Cheese Tortellini",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "90"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Gluten Free Penne",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "160"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Gluten Free Cheese Ravioli",
+    "category": "Ditoni's Pasta",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1lb",
+        "points": "160"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Whole Kernel Corn",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cut Green Beans",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Green Peas",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Mixed Vegetables",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Shelled Edamame (Sweet Beans)",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sliced Carrots",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cut Leaf Spinach",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Peas and Carrots",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Broccoli Cuts",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "40"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Blueberries",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "65"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Strawberries",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cranberries",
+    "category": "The Organic Garden",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "10oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cauliflower",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Brussel Sprouts",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Broccoli Florets",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "32oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chopped Broccoli",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Broccoli w/ Cheese Sauce",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "9oz",
+        "points": "30"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Mixed Vegetables",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sliced Carrots",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Green Peas",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Baby Lima Beans",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chopped Spinach",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "32oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cut Corn",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "32oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Cut Green Beans",
+    "category": "The Garden (Veggies)",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "32oz",
+        "points": "60"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Amish Valley Butter Unsalted",
+    "category": "Dairy Farm",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "50"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Amish Valley Butter Salted",
+    "category": "Dairy Farm",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "16oz",
+        "points": "50"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Country Crock Margarine",
+    "category": "Dairy Farm",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "40oz",
+        "points": "45"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Steak Flavor Enhancer",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4.4oz",
+        "points": "70"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Pork and Poultry Flavor Enhancer",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4oz",
+        "points": "70"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Old Fashioned (Tradional) BBQ Sauce",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "19oz",
+        "points": "35"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Tangy (Zesty) BBQ Sauce",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "19oz",
+        "points": "35"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Old Smokey (Hickory) BBQ Sauce",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "19oz",
+        "points": "35"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sweet Honey (Sweet) BBQ Sauce",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "19oz",
+        "points": "35"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Buffalo Wing Sauce (Hot)",
+    "category": "Seasonings and Sauces",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "12oz",
+        "points": "35"
+      }
+    ]
+  },
+
+  {
+
+    "name": "10 inch NY Cheesecake Pre - Cut ",
+    "category": "Desserts",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4lb",
+        "points": "250"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Chocolate Chip Cookies Pre-Cut",
+    "category": "Desserts",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3lb",
+        "points": "150"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Oatmeal Raisin Cookies Pre-Cut",
+    "category": "Desserts",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3lb",
+        "points": "150"
+      }
+    ]
+  },
+
+  {
+
+    "name": "Sugar Cookies Pre-Cut",
+    "category": "Desserts",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3lb",
+        "points": "150"
+      }
+    ]
+  },
+  {
+
+    "name": "Bounty Paper Towels",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "4ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Charmin Ultra Big Roll Toilet Tissue",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "8ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Eggo Waffles (blueberry, Strawberry, Buttermilk)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3bx",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Totino's Pizza Rolls (Pep, Combo, Cheese)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "NFF Sauces",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Skippy Peanut Butter (creamy or Chunky)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Jiff Peanut Butter (creamy or chunky)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Heinz Ketchup",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Kraft Macaroni and Cheese",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "6ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Egg Noodles Wide",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Light and Fluffy Noodles",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "French's Yellow Mustard",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Chicken of the Sea Light Tuna",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "6ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Hellman's Mayonnaise",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Domino Sugar",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Ragu Tradional Spaghetti Sauce",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Ragu Meat Spaghetti Sauce",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Prego Spaghetti Sauce",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Prego Meat Sauce",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Ivory Soap",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "3ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Dawn Detergent",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Cascade Detergent (liquid or Powder)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Zip Loc Freezer Bags Quart",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "2ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Reynolds Aluminum Foil 200ft",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "1ct",
+        "points": "0"
+      }
+    ]
+  },
+  {
+
+    "name": "Pictsweet Steamed Vegetables (Corn, Green Beans, Mix Veg, Peas)",
+    "category": "Pantry",
+    "selectedSizePosition": "0",
+
+    "sizes": [
+
+      {
+        "size": "6ct",
+        "points": "0"
+      }
+    ]
+  }
+
+
+]
